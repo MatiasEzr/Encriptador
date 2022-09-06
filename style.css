@@ -314,6 +314,7 @@ footer{
     
 }
 
+@media screen and (max-width:480px){
 main{
   height:100%;
 }
@@ -397,4 +398,5 @@ label{
 
 footer{
 position:fixed;
+}
 }
