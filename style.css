@@ -313,3 +313,88 @@ footer{
     margin: 20px;
     
 }
+
+main{
+  height:100%;
+}
+.text-input{
+  width:20rem;
+  top:8rem;
+  left:1.5rem;
+  font-size: 22px;
+  word-wrap: break-word;
+  } 
+.logo{
+  top: 1rem;
+  left: -1.5rem;
+  width:25%;
+}
+.botones{     
+  flex-direction: column;
+  top:25.5rem;
+  left:1.5rem;
+}
+.form-group{
+  left:2.3rem;
+  top:24rem;
+}
+label{
+  font-size:12px;
+}
+.boton-encriptar,.boton-desencriptar{
+  width: 320px;
+  font-size:20px;
+  height:65px;
+  margin: 0.5rem;
+}
+.caja-msj{
+  
+  width:20rem;
+  left:2rem;
+  top:37rem;
+  padding:0;
+  height:6rem;
+
+}
+.caja-div{
+  padding-top:0.5rem;
+  height:auto;
+  border-radius: 32px;
+  padding-left: 1.5rem;
+}
+.caja-msj h2{
+  font-size:14px;
+  width:80%;
+  margin: 0.5rem;
+  height:100%;
+  
+}
+.caja-msj h3{
+  font-size:12px;
+  width:80%;
+  margin: 0.5rem;
+  height:100%;
+  
+}
+.caja-msj img{
+  display: none;
+}
+.boton-copiar{
+  top:8rem;
+  width: 320px;
+  height:62px;
+  font-size:20px;
+  left:-0.5rem;
+}
+.mensaje{
+  width: 17rem;
+  top: 0.5rem;
+  height:8rem;
+  left:1.5rem;
+  font-size: 14px;
+  word-wrap: break-word;
+}
+
+footer{
+position:fixed;
+}
